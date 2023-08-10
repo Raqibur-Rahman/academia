@@ -51,7 +51,7 @@ const Navbar2 = () => {
                 </div>
                 <div className="navbar-end">
 
-                    <a className="btn btn-success text-white">Login</a>
+                    <Link to="/login" className="btn btn-success text-white">Login</Link>
                 </div>
             </div>
 
